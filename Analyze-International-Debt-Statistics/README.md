@@ -1,4 +1,4 @@
-# 💵 Analyze International Debt Statistics
+# 🪙 Analyze International Debt Statistics
 
 > **Objective:** Extract and analyze international debt data to identify global debt distribution, the highest-indebted nations, and specific repayment indicators.
 
