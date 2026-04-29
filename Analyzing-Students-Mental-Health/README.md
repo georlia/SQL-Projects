@@ -18,7 +18,7 @@ This project investigates whether the duration of time spent studying abroad imp
 | toas          | Total score of acculturative stress (ASISS test)  |
 
 ## SQL Query
-![sql.png](sql.png)
+![Photos/query.png](Photos/query.png)
 
 ## Final Table
 | index | stay | count_int | average_phq | average_scs | average_as | 
@@ -38,4 +38,4 @@ This project investigates whether the duration of time spent studying abroad imp
 * **Social Connectedness**: Observed how social integration (SCS) correlates with lower stress levels as students spend more time in the host country.
 * **Data Trends**: Confirmed that the "International" student cohort generally reports higher stress indicators compared to the domestic baseline.
 
-![person.png](person.png)
+![Photos/person.png](Photos/person.png)
