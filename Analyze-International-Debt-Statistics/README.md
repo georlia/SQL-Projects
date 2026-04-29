@@ -1,6 +1,7 @@
 # 💵 Analyze International Debt Statistics
 
 > **Objective:** Extract and analyze international debt data to identify global debt distribution, the highest-indebted nations, and specific repayment indicators.
+
 This project explores a dataset provided by The World Bank containing debt information for developing countries. Using PostgreSQL, I transformed raw financial records into a concise summary to identify which countries hold the most significant debt burdens and their specific repayment obligations.
 
 ## Data description
