@@ -9,3 +9,9 @@ This project investigates whether the duration of time spent studying abroad imp
 ## 2. Analyze International Debt Statistics
 This project explores a dataset provided by The World Bank containing debt information for developing countries. Using PostgreSQL, I transformed raw financial records into a concise summary to identify which countries hold the most significant debt burdens and their specific repayment obligations.
 ![Analyze-International-Debt-Statistics/Photos/money.png](Analyze-International-Debt-Statistics/Photos/money.png)
+
+---
+## 3. Analyzing-Industry-Carbon-Emissions
+This project investigates the greenhouse gas emissions attributable to various products, from food to technology. Using a dataset of Product Carbon Footprints (PCFs) measured in CO2 equivalents, I used PostgreSQL to aggregate industry-wide emissions, highlighting which sectors contribute most significantly to global carbon output.
+![Analyzing-Industry-Carbon-Emissions/Photos/co2.png](Analyzing-Industry-Carbon-Emissions/Photos/co2.png)
+---
