@@ -20,7 +20,7 @@ This project investigates whether the duration of time spent studying abroad imp
 ## SQL Query
 ![Photos/query.png](Photos/query.png)
 
-## Final Table
+## Output
 | index | stay | count_int | average_phq | average_scs | average_as | 
 | ----- |----- | --------- | ----------- | ----------- | ---------- |
 | 0     | 10   | 1         | 13          | 32          | 50         |
