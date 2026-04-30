@@ -20,14 +20,14 @@ This project examines data from the United States Social Security Administration
 ![Photos/output1.png](Photos/output1.png)
 
 ## Second SQL Query 
-> Goal: What were the top 20 male names overall, and how did the name Paul rank?
+> Goal: Find the top 20 male names overall and how did the name Paul rank.
 ![Photos/query2.png](Photos/query2.png)
 
 ## Output
 ![Photos/output2.png](Photos/output2.png)
 
 ## Third SQL Query 
-> Goal: Which female names appeared in both 1920 and 2020?
+> Goal: Find the female names that appeared in both 1920 and 2020.
 ![Photos/query3.png](Photos/query3.png)
 
 ## Output
