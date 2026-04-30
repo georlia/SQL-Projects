@@ -1,6 +1,6 @@
 ## 🏭 Analyzing Industry Carbon Emissions
 
-> **Objective:** Find the number of unique companies and their total carbon footprint (PCF) for each industry group, filtering for the most recent data year.
+**Objective: Find the number of unique companies and their total carbon footprint (PCF) for each industry group, filtering for the most recent data year.**
 
 This project investigates the greenhouse gas emissions attributable to various products, from food to technology. Using a dataset of Product Carbon Footprints (PCFs) measured in CO2 equivalents, I used PostgreSQL to aggregate industry-wide emissions, highlighting which sectors contribute most significantly to global carbon output.
 
