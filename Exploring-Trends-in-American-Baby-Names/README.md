@@ -1,6 +1,6 @@
 ## 👶Exploring Trends in American Baby Names
 
-> **Objective:** Analyze a century of American baby name data to distinguish between "Classic" and "Trendy" names and identify long-term popularity shifts.
+**Objective:** Analyze a century of American baby name data to distinguish between "Classic" and "Trendy" names and identify long-term popularity shifts.
 
 This project examines data from the United States Social Security Administration spanning 1920 to 2020. Using SQL, I classified names based on their longevity and tracked how specific names have survived over 100 years of changing cultural tastes, focusing on names with high-volume usage (over 5,000 babies per year).
 
@@ -13,21 +13,24 @@ This project examines data from the United States Social Security Administration
 | num            | Number of babies of sex given first_name in that year                     | int        |
 
 ## First SQL Query 
-> Goal: List the first five names in alphabetical order and find out if each name is "Classic" or "Trendy."
+> List the first five names in alphabetical order and find out if each name is "Classic" or "Trendy."
+
 ![Photos/query1.png](Photos/query1.png)
 
 ## Output
 ![Photos/output1.png](Photos/output1.png)
 
 ## Second SQL Query 
-> Goal: Find the top 20 male names overall and how did the name Paul rank.
+> Find the top 20 male names overall and how did the name Paul rank.
+
 ![Photos/query2.png](Photos/query2.png)
 
 ## Output
 ![Photos/output2.png](Photos/output2.png)
 
 ## Third SQL Query 
-> Goal: Find the female names that appeared in both 1920 and 2020.
+> Find the female names that appeared in both 1920 and 2020.
+
 ![Photos/query3.png](Photos/query3.png)
 
 ## Output
