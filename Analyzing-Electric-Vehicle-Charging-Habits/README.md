@@ -1,6 +1,6 @@
 # 🔌Analyzing Electric Vehicle Charging Habits
 
-> **Objective:** To analyze electric vehicle (EV) charging behavior in shared apartment garages, identifying user traffic, peak usage times, and high-duration charging habits to help managers optimize port availability.
+**Objective:** To analyze electric vehicle (EV) charging behavior in shared apartment garages, identifying user traffic, peak usage times, and high-duration charging habits to help managers optimize port availability.
 
 This project utilizes a PostgreSQL database containing records of charging sessions. By filtering for "Shared" station types, the analysis focuses on community ports where competition is highest, providing actionable insights into when and how these resources are utilized.
 
@@ -21,6 +21,7 @@ This project utilizes a PostgreSQL database containing records of charging sessi
 
 ## First SQL Query 
 > Find the number of unique individuals using each garage's shared charging stations.
+
 ![Photos/query1.png](Photos/query1.png)
 
 ## Output
@@ -28,6 +29,7 @@ This project utilizes a PostgreSQL database containing records of charging sessi
 
 ## Second SQL Query 
 > Find the top 10 most popular charging start times (weekday + hour) for shared stations.
+
 ![Photos/query2.png](Photos/query2.png)
 
 ## Output
@@ -35,6 +37,7 @@ This project utilizes a PostgreSQL database containing records of charging sessi
 
 ## Third SQL Query
 > Identify users whose average charging duration exceeds 10 hours at shared stations.
+
 ![Photos/query3.png](Photos/query3.png)
 
 ## Output
