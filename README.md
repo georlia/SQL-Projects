@@ -13,6 +13,10 @@ This project explores a dataset provided by The World Bank containing debt infor
 ---
 ## 3. Analyzing Industry Carbon Emissions
 This project investigates the greenhouse gas emissions attributable to various products, from food to technology. Using a dataset of Product Carbon Footprints (PCFs) measured in CO2 equivalents, I used PostgreSQL to aggregate industry-wide emissions, highlighting which sectors contribute most significantly to global carbon output. 
-
 ![Analyzing-Industry-Carbon-Emissions/Photos/co2.png](Analyzing-Industry-Carbon-Emissions/Photos/co2.png)
+
 ---
+## 4. Exploring Trends in American Baby Names
+
+![Exploring-Trends-in-American-Baby-Names/Photos/names.png](Exploring-Trends-in-American-Baby-Names/Photos/names.png)
+Objective:
