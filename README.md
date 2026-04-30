@@ -25,3 +25,6 @@ This project examines data from the United States Social Security Administration
 ![Exploring-Trends-in-American-Baby-Names/Photos/names.png](Exploring-Trends-in-American-Baby-Names/Photos/names.png)
 
 ---
+## 5. Analyzing Electric Vehicle Charging Habits
+This project utilizes a PostgreSQL database containing records of charging sessions. By filtering for "Shared" station types, the analysis focuses on community ports where competition is highest, providing actionable insights into when and how these resources are utilized.
+![Analyzing-Electric-Vehicle-Charging-Habits/Photos/car.png](Analyzing-Electric-Vehicle-Charging-Habits/Photos/car.png)
