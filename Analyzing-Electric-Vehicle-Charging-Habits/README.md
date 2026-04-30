@@ -44,4 +44,4 @@ This project utilizes a PostgreSQL database containing records of charging sessi
 * User Concentration: Garage Bl2 has the highest traffic with 18 unique users, followed closely by AsO2 (17) and UT9 (16). Managers should prioritize these locations for infrastructure upgrades.
 * Peak Demand Windows: Peak usage occurs on Sunday at 17:00 (5 PM). In general, late afternoon and early evening (15:00 - 19:00) across Sundays and Fridays are the busiest times for shared ports.
 * Duration Outliers: User Share-9 is a significant outlier, averaging nearly 17 hours per session. Identifying such users helps in implementing policies to prevent port hogging in shared spaces.
-![Photos/cars.png](Photos/cars.png)
+![Photos/cars.png](Photos/car.png)
