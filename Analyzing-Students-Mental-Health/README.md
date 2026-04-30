@@ -18,6 +18,7 @@ This project investigates whether the duration of time spent studying abroad imp
 | toas          | Total score of acculturative stress (ASISS test)  |
 
 ## SQL Query
+> Goal: Does going to university in a different country affect your mental health? 
 ![Photos/query.png](Photos/query.png)
 
 ## Output
