@@ -14,21 +14,21 @@ This project explores a dataset provided by The World Bank containing debt infor
 | debt           | Value of the debt indicator for the given country (in current US dollars) | float      |
 
 ## First SQL Query 
-> Goal: What is the number of distinct countries present in the database?
+> Goal: Find the number of distinct countries present in the database.
 ![Photos/query1.png](Photos/query1.png)
 
 ## Output
 ![Photos/output1.png](Photos/output1.png)
 
 ## Second SQL Query 
-> Goal: What country has the highest amount of debt?
+> Goal: Find what country has the highest amount of debt.
 ![Photos/query2.png](Photos/query2.png)
 
 ## Output
 ![Photos/output2.png](Photos/output2.png)
 
 ## Third SQL Query
-> Goal: What country has the lowest amount of principal repayments (indicated by the "DT.AMT.DLXF.CD" indicator code)?
+> Goal: Find the country has the lowest amount of principal repayments (indicated by the "DT.AMT.DLXF.CD" indicator code).
 ![Photos/query3.png](Photos/query3.png)
 
 ## Output
