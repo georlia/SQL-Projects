@@ -1,4 +1,4 @@
-## 🏭 Analyzing-Industry-Carbon-Emissions
+## 🏭 Analyzing Industry Carbon Emissions
 
 > **Objective:** Find the number of unique companies and their total carbon footprint (PCF) for each industry group, filtering for the most recent data year.
 
