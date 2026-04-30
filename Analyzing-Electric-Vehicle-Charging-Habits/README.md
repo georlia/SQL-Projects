@@ -20,21 +20,21 @@ This project utilizes a PostgreSQL database containing records of charging sessi
 | weekdays_plugin | The day of the week that the session started | VARCHAR |
 
 ## First SQL Query 
-> Goal: Find the number of unique individuals using each garage's shared charging stations.
+> Find the number of unique individuals using each garage's shared charging stations.
 ![Photos/query1.png](Photos/query1.png)
 
 ## Output
 ![Photos/output1.png](Photos/output1.png)
 
 ## Second SQL Query 
-> Goal: Find the top 10 most popular charging start times (weekday + hour) for shared stations.
+> Find the top 10 most popular charging start times (weekday + hour) for shared stations.
 ![Photos/query2.png](Photos/query2.png)
 
 ## Output
 ![Photos/output2.png](Photos/output2.png)
 
 ## Third SQL Query
-> Goal: Identify users whose average charging duration exceeds 10 hours at shared stations.
+> Identify users whose average charging duration exceeds 10 hours at shared stations.
 ![Photos/query3.png](Photos/query3.png)
 
 ## Output
