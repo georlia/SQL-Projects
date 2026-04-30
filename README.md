@@ -17,6 +17,7 @@ This project investigates the greenhouse gas emissions attributable to various p
 
 ---
 ## 4. Exploring Trends in American Baby Names
-
+This project examines data from the United States Social Security Administration spanning 1920 to 2020. Using SQL, I classified names based on their longevity and tracked how specific names have survived over 100 years of changing cultural tastes, focusing on names with high-volume usage (over 5,000 babies per year).
 ![Exploring-Trends-in-American-Baby-Names/Photos/names.png](Exploring-Trends-in-American-Baby-Names/Photos/names.png)
-Objective:
+
+---
