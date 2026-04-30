@@ -20,6 +20,8 @@ This project investigates the greenhouse gas emissions attributable to various p
 | downstream_percent_total_pcf            | varchar    |
 
 ## SQL Query 
+> Find the number of unique companies and their total carbon footprint (PCF) for each industry group, filtering for the most recent data year.
+
 ![Photos/query.png](Photos/query.png)
 
 ## Output
