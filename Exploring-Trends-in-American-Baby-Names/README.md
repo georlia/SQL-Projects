@@ -19,12 +19,23 @@ This project
 | operations_percent_total_pcf            | varchar    |
 | downstream_percent_total_pcf            | varchar    |
 
-## SQL Query 
-![Photos/query.png](Photos/query.png)
+## First SQL Query 
+![Photos/query1.png](Photos/query1.png)
 
-## Output
-![Photos/output.png](Photos/output.png)
+## First Output
+![Photos/output1.png](Photos/output1.png)
 
+## Second SQL Query 
+![Photos/query2.png](Photos/query2.png)
+
+## Second Output
+![Photos/output2.png](Photos/output2.png)
+
+## Third SQL Query 
+![Photos/query3.png](Photos/query3.png)
+
+## Third Output
+![Photos/output3.png](Photos/output3.png)
 ## Key Insights 
 * 
-![Photos/baby.png](Photos/baby.png)
+![Photos/names.png](Photos/names.png)
