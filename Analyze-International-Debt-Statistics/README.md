@@ -1,6 +1,6 @@
 # 🪙 Analyze International Debt Statistics
 
-> **Objective:** Extract and analyze international debt data to identify global debt distribution, the highest-indebted nations, and specific repayment indicators.
+**Objective: Extract and analyze international debt data to identify global debt distribution, the highest-indebted nations, and specific repayment indicators.**
 
 This project explores a dataset provided by The World Bank containing debt information for developing countries. Using PostgreSQL, I transformed raw financial records into a concise summary to identify which countries hold the most significant debt burdens and their specific repayment obligations.
 
@@ -15,6 +15,7 @@ This project explores a dataset provided by The World Bank containing debt infor
 
 ## First SQL Query 
 > Find the number of distinct countries present in the database.
+
 ![Photos/query1.png](Photos/query1.png)
 
 ## Output
@@ -22,6 +23,7 @@ This project explores a dataset provided by The World Bank containing debt infor
 
 ## Second SQL Query 
 > Find what country has the highest amount of debt.
+
 ![Photos/query2.png](Photos/query2.png)
 
 ## Output
@@ -29,6 +31,7 @@ This project explores a dataset provided by The World Bank containing debt infor
 
 ## Third SQL Query
 > Find the country has the lowest amount of principal repayments (indicated by the "DT.AMT.DLXF.CD" indicator code).
+
 ![Photos/query3.png](Photos/query3.png)
 
 ## Output
