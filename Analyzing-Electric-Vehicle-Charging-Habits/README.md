@@ -1,6 +1,6 @@
 # 🔌Analyzing Electric Vehicle Charging Habits
 
-**Objective:** To analyze electric vehicle (EV) charging behavior in shared apartment garages, identifying user traffic, peak usage times, and high-duration charging habits to help managers optimize port availability.
+**Objective: To analyze electric vehicle (EV) charging behavior in shared apartment garages, identifying user traffic, peak usage times, and high-duration charging habits to help managers optimize port availability.**
 
 This project utilizes a PostgreSQL database containing records of charging sessions. By filtering for "Shared" station types, the analysis focuses on community ports where competition is highest, providing actionable insights into when and how these resources are utilized.
 
@@ -44,7 +44,7 @@ This project utilizes a PostgreSQL database containing records of charging sessi
 ![Photos/output3.png](Photos/output3.png)
 
 ## Key Insights 
-* User Concentration: Garage Bl2 has the highest traffic with 18 unique users, followed closely by AsO2 (17) and UT9 (16). Managers should prioritize these locations for infrastructure upgrades.
-* Peak Demand Windows: Peak usage occurs on Sunday at 17:00 (5 PM). In general, late afternoon and early evening (15:00 - 19:00) across Sundays and Fridays are the busiest times for shared ports.
-* Duration Outliers: User Share-9 is a significant outlier, averaging nearly 17 hours per session. Identifying such users helps in implementing policies to prevent port hogging in shared spaces.
+* **User Concentration:** Garage Bl2 has the highest traffic with 18 unique users, followed closely by AsO2 (17) and UT9 (16). Managers should prioritize these locations for infrastructure upgrades.
+* **Peak Demand Windows:** Peak usage occurs on Sunday at 17:00 (5 PM). In general, late afternoon and early evening (15:00 - 19:00) across Sundays and Fridays are the busiest times for shared ports.
+* **Duration Outliers:** User Share-9 is a significant outlier, averaging nearly 17 hours per session. Identifying such users helps in implementing policies to prevent port hogging in shared spaces.
 ![Photos/cars.png](Photos/car.png)
