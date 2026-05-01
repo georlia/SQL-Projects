@@ -1,5 +1,5 @@
 # 🎮 When Was the Golden Age of Video Games?
-**Objective:** Analyze a century of gaming data to identify the "Golden Age" of video games by comparing critic and user reviews against global sales figures.
+**Objective: Analyze a century of gaming data to identify the "Golden Age" of video games by comparing critic and user reviews against global sales figures.**
 
 This project explores the business and cultural impact of the gaming industry. By joining review datasets with sales records, I identified the specific years that resonated most with players and critics alike, exploring whether higher budgets and modern technology lead to better-received games.
 
