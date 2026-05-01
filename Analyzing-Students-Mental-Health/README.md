@@ -1,6 +1,6 @@
 # ❤️‍🩹Analyzing Students Mental Health
     
-**Objective:** Explore the relationship between length of stay and the mental health scores (Depression, Anxiety, and Stress) of international students.
+**Objective: Explore the relationship between length of stay and the mental health scores (Depression, Anxiety, and Stress) of international students.**
 
 This project investigates whether the duration of time spent studying abroad impacts the mental health of international students. Using a dataset from a 2018 survey at a Japanese international university, I used PostgreSQL to determine if students who stay longer experience higher or lower levels of "acculturative stress."
 
