@@ -28,7 +28,7 @@ This project investigates the greenhouse gas emissions attributable to various p
 ![Photos/output.png](Photos/output.png)
 
 ## Key Insights 
-* Primary Polluters: The Materials and Capital Goods sectors dominate the carbon footprint in the 2017 dataset, accounting for the vast majority of recorded emissions.
-* Company Distribution: Despite having more unique companies represented, Technology Hardware & Equipment has a significantly lower total footprint compared to the heavy industrial sectors.
-* Concentrated Impact: Sectors like Software & Services and Commercial Services show minimal emissions in comparison, reflecting the high heat generation and energy intensity required for physical manufacturing vs. digital services.
+* **Primary Polluters:** The Materials and Capital Goods sectors dominate the carbon footprint in the 2017 dataset, accounting for the vast majority of recorded emissions.
+* **Company Distribution:** Despite having more unique companies represented, Technology Hardware & Equipment has a significantly lower total footprint compared to the heavy industrial sectors.
+* **Concentrated Impact:** Sectors like Software & Services and Commercial Services show minimal emissions in comparison, reflecting the high heat generation and energy intensity required for physical manufacturing vs. digital services.
 ![Photos/co2.png](Photos/co2.png)
