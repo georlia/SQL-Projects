@@ -1,0 +1,11 @@
+SELECT 
+	g.year,
+	COUNT(g.name) AS num_games,
+	ROUND(AVG(r.critic_score),2) AS avg_critic_score
+FROM game_sales AS g
+INNER JOIN reviews AS r
+ON g.name = r.name
+GROUP BY g.year
+HAVING COUNT (g.name) >= 4
+ORDER BY avg_critic_score DESC
+LIMIT 10;
