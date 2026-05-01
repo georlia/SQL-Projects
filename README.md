@@ -28,3 +28,9 @@ This project examines data from the United States Social Security Administration
 ## 5. Analyzing Electric Vehicle Charging Habits
 This project utilizes a PostgreSQL database containing records of charging sessions. By filtering for "Shared" station types, the analysis focuses on community ports where competition is highest, providing actionable insights into when and how these resources are utilized.
 ![Analyzing-Electric-Vehicle-Charging-Habits/Photos/car.png](Analyzing-Electric-Vehicle-Charging-Habits/Photos/car.png)
+
+---
+## 6. When Was the Golden Age of Video Games?
+This project explores the business and cultural impact of the gaming industry. By joining review datasets with sales records, I identified the specific years that resonated most with players and critics alike, exploring whether higher budgets and modern technology lead to better-received games.
+![Golden-Era-Of-Video-Games/Photos/games.png](Golden-Era-Of-Video-Games/Photos/games.png)
+
