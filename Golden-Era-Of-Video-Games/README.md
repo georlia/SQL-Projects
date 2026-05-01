@@ -40,7 +40,7 @@ This project explores the business and cultural impact of the gaming industry. B
 |avg_critic_score| Average score of all the games ratings for the year |float|
 
 ## First SQL Query 
-> List the first five names in alphabetical order and find out if each name is "Classic" or "Trendy."
+> Identify the ten best-selling video games of all time in this dataset.
 
 ![Photos/query1.png](Photos/query1.png)
 
@@ -48,7 +48,7 @@ This project explores the business and cultural impact of the gaming industry. B
 ![Photos/output1.png](Photos/output1.png)
 
 ## Second SQL Query 
-> Find the top 20 male names overall and how did the name Paul rank.
+> Find the ten years with the highest average critic scores.
 
 ![Photos/query2.png](Photos/query2.png)
 
@@ -56,7 +56,7 @@ This project explores the business and cultural impact of the gaming industry. B
 ![Photos/output2.png](Photos/output2.png)
 
 ## Third SQL Query 
-> Find the female names that appeared in both 1920 and 2020.
+> Locate the "Golden Years" where both critics and users gave exceptionally high ratings.
 
 ![Photos/query3.png](Photos/query3.png)
 
