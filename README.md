@@ -19,18 +19,9 @@ This project investigates the greenhouse gas emissions attributable to various p
 ![Analyzing-Industry-Carbon-Emissions/Photos/co2.png](Analyzing-Industry-Carbon-Emissions/Photos/co2.png)
 
 ---
-## 4. Exploring Trends in American Baby Names
-This project examines data from the United States Social Security Administration spanning 1920 to 2020. Using SQL, I classified names based on their longevity and tracked how specific names have survived over 100 years of changing cultural tastes, focusing on names with high-volume usage (over 5,000 babies per year).
-
-![Exploring-Trends-in-American-Baby-Names/Photos/names.png](Exploring-Trends-in-American-Baby-Names/Photos/names.png)
-
----
-## 5. Analyzing Electric Vehicle Charging Habits
+## 4. Analyzing Electric Vehicle Charging Habits
 This project utilizes a PostgreSQL database containing records of charging sessions. By filtering for "Shared" station types, the analysis focuses on community ports where competition is highest, providing actionable insights into when and how these resources are utilized.
+
 ![Analyzing-Electric-Vehicle-Charging-Habits/Photos/car.png](Analyzing-Electric-Vehicle-Charging-Habits/Photos/car.png)
 
 ---
-## 6. When Was the Golden Age of Video Games?
-This project explores the business and cultural impact of the gaming industry. By joining review datasets with sales records, I identified the specific years that resonated most with players and critics alike, exploring whether higher budgets and modern technology lead to better-received games.
-![Golden-Era-Of-Video-Games/Photos/games.png](Golden-Era-Of-Video-Games/Photos/games.png)
-
