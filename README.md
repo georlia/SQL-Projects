@@ -7,7 +7,7 @@ This project investigates whether the duration of time spent studying abroad imp
 ![Analyzing-Students-Mental-Health/Photos/person.png](Analyzing-Students-Mental-Health/Photos/person.png)
 
 ---
-## 2. Analyze International Debt Statistics
+## 2. Analyzing International Debt Statistics
 This project explores a dataset provided by The World Bank containing debt information for developing countries. Using PostgreSQL, I transformed raw financial records into a concise summary to identify which countries hold the most significant debt burdens and their specific repayment obligations.
 
 ![Analyze-International-Debt-Statistics/Photos/money.png](Analyze-International-Debt-Statistics/Photos/money.png)
