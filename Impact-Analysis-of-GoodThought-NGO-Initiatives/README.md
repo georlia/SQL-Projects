@@ -3,9 +3,9 @@
 The primary goal is to evaluate the financial distribution and social impact of humanitarian projects to provide data-driven insights for future strategic planning.
 
 ## Data description
-* Assignments: Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
-* Donations: Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.
-* Donors: Information on individuals and organizations that fund GoodThought’s projects, including donor types.
+* **Assignments:** Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
+* **Donations:** Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.
+* **Donors:** Information on individuals and organizations that fund GoodThought’s projects, including donor types.
 
 ## ERD diagram 
 <img width="700" height="370" alt="Στιγμιότυπο οθόνης 2026-05-05 162119" src="https://github.com/user-attachments/assets/4adcd071-7c75-4751-908e-c11941f8cc83" />
