@@ -19,6 +19,7 @@ By filtering for wholesale transactions and accounting for varying payment fees,
 
 # SQL Query: Wholesale Net Revenue by Product Line
 >The following code calculates the monthly net revenue for each product line and warehouse.
+
 ![images/revenue_by_product_line.png](images/revenue_by_product_line.png)
 
 # Output Results
