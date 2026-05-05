@@ -2,9 +2,8 @@
 
 ---
 ## 1. Impact Analysis of GoodThought NGO Initiatives
-
-
-![Analyze-International-Debt-Statistics/Photos/money.png](Analyze-International-Debt-Statistics/Photos/money.png)
+The primary goal is to evaluate the financial distribution and social impact of humanitarian projects to provide data-driven insights for future strategic planning.
+<img width="1000" height="400" alt="hands" src="https://github.com/user-attachments/assets/62510bae-453a-4134-8397-bb11de12d396" />
 
 ---
 ## 2. Analyzing Industry Carbon Emissions
