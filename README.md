@@ -7,7 +7,7 @@ The primary goal is to evaluate the financial distribution and social impact of 
 
 ---
 ## 2. Factors that Fuel Student Performance
-
+This project analyzes a comprehensive dataset to identify the lifestyle habits and academic behaviors—such as study duration, sleep patterns, and tutoring—that most significantly impact student exam performance.
 <img width="1478" height="539" alt="Στιγμιότυπο οθόνης 2026-05-05 171813" src="https://github.com/user-attachments/assets/a8e45691-762b-41b4-bdf9-a9c02de2a1ea" />
 
 
