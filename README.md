@@ -7,11 +7,13 @@ The primary goal is to evaluate the financial distribution and social impact of 
 ---
 ## 2. Factors that Fuel Student Performance
 This project analyzes a comprehensive dataset to identify the lifestyle habits and academic behaviors—such as study duration, sleep patterns, and tutoring—that most significantly impact student exam performance.
+By leveraging intermediate SQL queries, the analysis provides data-driven insights to help students and educators make informed decisions for optimizing academic success.
+
 <img width="1478" height="539" alt="Στιγμιότυπο οθόνης 2026-05-05 171813" src="https://github.com/user-attachments/assets/a8e45691-762b-41b4-bdf9-a9c02de2a1ea" />
 
 ---
 ## 3. Analyzing Motorcycle Part Sales
-
+This project analyzes wholesale sales data from a motorcycle parts company to identify net revenue trends across different product lines, months, and warehouse locations. By filtering for wholesale transactions and accounting for varying payment fees, the analysis provides the board of directors with a data-driven understanding of regional profitability and inventory performance.
 <img width="1080" height="537" alt="Στιγμιότυπο οθόνης 2026-05-05 220926" src="https://github.com/user-attachments/assets/ebd06815-58a9-432d-8e3a-3d9414ef6270" />
 
 
