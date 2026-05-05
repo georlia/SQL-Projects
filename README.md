@@ -1,8 +1,8 @@
 # ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=generic&logoColor=orange)  SQL Projects
 
 ---
-## 1. 
-This project explores a dataset provided by The World Bank containing debt information for developing countries. Using PostgreSQL, I transformed raw financial records into a concise summary to identify which countries hold the most significant debt burdens and their specific repayment obligations.
+## 1. Impact Analysis of GoodThought NGO Initiatives
+
 
 ![Analyze-International-Debt-Statistics/Photos/money.png](Analyze-International-Debt-Statistics/Photos/money.png)
 
