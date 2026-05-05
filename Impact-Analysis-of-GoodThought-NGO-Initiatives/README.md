@@ -3,7 +3,7 @@
 The primary goal is to evaluate the financial distribution and social impact of humanitarian projects to provide data-driven insights for future strategic planning.
 
 ## Data description
-* **Assignments:** Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
+* **Assignments:** Details about each project, including its name, duration, budget, geographical region, and the impact score.
 * **Donations:** Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.
 * **Donors:** Information on individuals and organizations that fund GoodThought’s projects, including donor types.
 
