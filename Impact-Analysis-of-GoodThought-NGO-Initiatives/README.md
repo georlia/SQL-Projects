@@ -1,6 +1,6 @@
 # 🫶 Impact Analysis of GoodThought NGO Initiatives
 
-** Objective: **
+**  Objective: **
 
 ## Data description
 * Assignments: Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
@@ -13,17 +13,17 @@ ERD diagram for a visual representation of the relationships between these data 
 
 ## First SQL Query 
 > List the top five assignments based on total value of donations, categorized by donor type. 
-![Photos/query1.png](Photos/highest_donation_assignments.png)
+![Photos/highest_donation_assignments.png](Photos/highest_donation_assignments.png)
 
 ## Output
-![Photos/output1.png](Photos/output_highest_donation_assignments.png)
+![Photos/output_highest_donation_assignments.png](Photos/output_highest_donation_assignments.png)
 
 ## Second SQL Query 
 > Identify the assignment with the highest impact score in each region, ensuring that each listed assignment has received at least one donation.
-![Photos/query2.png](Photos/top_regional_impact_assignments.png)
+![Photos/top_regional_impact_assignments.png](Photos/top_regional_impact_assignments.png)
 
 ## Output
-![Photos/output2.png](Photos/output_top_regional_impact_assignments.png)
+![Photos/output_top_regional_impact_assignments.png](Photos/output_top_regional_impact_assignments.png)
 
 ## Key Insights 
 * **User Concentration:** 
