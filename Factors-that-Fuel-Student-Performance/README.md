@@ -1,5 +1,6 @@
 # 🎓 Factors that Fuel Student Performance
 This project analyzes a comprehensive dataset to identify the lifestyle habits and academic behaviors—such as study duration, sleep patterns, and tutoring—that most significantly impact student exam performance.
+By leveraging intermediate SQL queries, the analysis provides data-driven insights to help students and educators make informed decisions for optimizing academic success
 
 ## Data description
 | Column Name | Definition | Data Type |
