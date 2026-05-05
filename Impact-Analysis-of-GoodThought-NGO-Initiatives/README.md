@@ -13,17 +13,17 @@ ERD diagram for a visual representation of the relationships between these data 
 
 ## First SQL Query 
 > List the top five assignments based on total value of donations, categorized by donor type. 
-![Photos/highest_donation_assignments.png](Photos/highest_donation_assignments.png)
+![images/highest_donation_assignments.png](images/highest_donation_assignments.png)
 
 ## Output
-![Photos/output_highest_donation_assignments.png](Photos/output_highest_donation_assignments.png)
+![images/output_highest_donation_assignments.png](images/output_highest_donation_assignments.png)
 
 ## Second SQL Query 
 > Identify the assignment with the highest impact score in each region, ensuring that each listed assignment has received at least one donation.
-![Photos/top_regional_impact_assignments.png](Photos/top_regional_impact_assignments.png)
+![images/top_regional_impact_assignments.png](images/top_regional_impact_assignments.png)
 
 ## Output
-![Photos/output_top_regional_impact_assignments.png](Photos/output_top_regional_impact_assignments.png)
+![images/output_top_regional_impact_assignments.png](images/output_top_regional_impact_assignments.png)
 
 ## Key Insights 
 * **User Concentration:** 
