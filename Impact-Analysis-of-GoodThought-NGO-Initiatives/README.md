@@ -1,6 +1,6 @@
 # 🫶 Impact Analysis of GoodThought NGO Initiatives
 
-**  Objective: The primary goal is to evaluate the financial distribution and social impact of humanitarian projects to provide data-driven insights for future strategic planning.**
+**Objective: The primary goal is to evaluate the financial distribution and social impact of humanitarian projects to provide data-driven insights for future strategic planning.**
 
 ## Data description
 * Assignments: Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
@@ -11,24 +11,26 @@
 <img width="700" height="370" alt="Στιγμιότυπο οθόνης 2026-05-05 162119" src="https://github.com/user-attachments/assets/4adcd071-7c75-4751-908e-c11941f8cc83" />
 
 
-## First SQL Query                     
-> List the top five assignments based on total value of donations, categorized by donor type.
+## First SQL Query: Top Donations by Donor Type                     
+> This query identifies the top five assignments based on total donation value, broken down by the type of donor.
 
 ![images/highest_donation_assignments.png](images/highest_donation_assignments.png)
 
-## Output
+## Output Results
 ![images/output_highest_donation_assignments.png](images/output_highest_donation_assignments.png)
 
-## Second SQL Query                  
-> Identify the assignment with the highest impact score in each region, ensuring that each listed assignment has received at least one donation.
+## Second SQL Query: Top Regional Impact                  
+> This query identifies the assignment with the highest impact score in each region, ensuring only projects that received at least one donation are included.
 
 ![images/top_regional_impact_assignments.png](images/top_regional_impact_assignments.png)
 
-## Output
+## Output Results
 ![images/output_top_regional_impact_assignments.png](images/output_top_regional_impact_assignments.png)
 
 ## Key Insights 
-* **User Concentration:** 
-* **Peak Demand Windows:** 
-* **Duration Outliers:** 
+* **Funding Dominance:** Organizations are major contributors to high-value projects in the North and West regions, while Individuals lead the highest-funded assignments in the East.
+
+* **High-Impact Success:** GoodThought NGO has successfully achieved perfect or near-perfect impact scores (9.99–10) across all operational regions (East, North, South, and West).
+
+* **Efficiency:** Top-impact projects often achieve their goals with a relatively low number of total donations (1–2), suggesting high resource utilization efficiency.
 <img width="1000" height="400" alt="hands" src="https://github.com/user-attachments/assets/62510bae-453a-4134-8397-bb11de12d396" />
