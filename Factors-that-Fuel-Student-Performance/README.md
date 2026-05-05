@@ -40,3 +40,4 @@ This project analyzes a comprehensive dataset to identify the lifestyle habits a
 * **The Power of 16+ Hours**: Students studying more than 16 hours achieved the highest average scores (~67.92), significantly higher than the 1-5 hour group (~62.63).
 * **The Rest Factor**: Data in the top rankings shows that even top-ranked students (Rank 1-3) vary in sleep (4 to 8 hours), suggesting tutoring and study hours may sometimes compensate for less sleep, though 6-8 hours remains common among high scorers.
 * **Extracurricular Synergy**: Students who study heavily (>10 hours) and participate in extracurriculars maintain very high average scores, often exceeding 70.0 in the 30+ hour study range.
+<img width="1578" height="439" alt="Στιγμιότυπο οθόνης 2026-05-05 171813" src="https://github.com/user-attachments/assets/8f94e736-5867-4bce-992d-74adb11b849a" />
