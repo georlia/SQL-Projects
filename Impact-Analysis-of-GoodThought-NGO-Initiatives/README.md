@@ -7,19 +7,21 @@
 * Donations: Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.
 * Donors: Information on individuals and organizations that fund GoodThought’s projects, including donor types.
 
-ERD diagram for a visual representation of the relationships between these data tables:
-<img width="600" height="350" alt="Στιγμιότυπο οθόνης 2026-05-05 162119" src="https://github.com/user-attachments/assets/4adcd071-7c75-4751-908e-c11941f8cc83" />
+## ERD diagram 
+<img width="700" height="370" alt="Στιγμιότυπο οθόνης 2026-05-05 162119" src="https://github.com/user-attachments/assets/4adcd071-7c75-4751-908e-c11941f8cc83" />
 
 
-## First SQL Query 
-> List the top five assignments based on total value of donations, categorized by donor type. 
+## First SQL Query                     
+> List the top five assignments based on total value of donations, categorized by donor type.
+
 ![images/highest_donation_assignments.png](images/highest_donation_assignments.png)
 
 ## Output
 ![images/output_highest_donation_assignments.png](images/output_highest_donation_assignments.png)
 
-## Second SQL Query 
+## Second SQL Query                  
 > Identify the assignment with the highest impact score in each region, ensuring that each listed assignment has received at least one donation.
+
 ![images/top_regional_impact_assignments.png](images/top_regional_impact_assignments.png)
 
 ## Output
@@ -29,4 +31,4 @@ ERD diagram for a visual representation of the relationships between these data 
 * **User Concentration:** 
 * **Peak Demand Windows:** 
 * **Duration Outliers:** 
-<img width="633" height="449" alt="hands" src="https://github.com/user-attachments/assets/62510bae-453a-4134-8397-bb11de12d396" />
+<img width="1000" height="400" alt="hands" src="https://github.com/user-attachments/assets/62510bae-453a-4134-8397-bb11de12d396" />
