@@ -33,4 +33,4 @@ The primary goal is to evaluate the financial distribution and social impact of 
 * **High-Impact Success:** GoodThought NGO has successfully achieved perfect or near-perfect impact scores (9.99–10) across all operational regions (East, North, South, and West).
 
 * **Efficiency:** Top-impact projects often achieve their goals with a relatively low number of total donations (1–2), suggesting high resource utilization efficiency.
-<img width="1000" height="400" alt="hands" src="https://github.com/user-attachments/assets/62510bae-453a-4134-8397-bb11de12d396" />
+<img width="1000" height="539" alt="ethelontismos" src="https://github.com/user-attachments/assets/7c81bec9-ca75-452c-9cc6-03713864eedf" />
