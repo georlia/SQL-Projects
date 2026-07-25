@@ -1,5 +1,5 @@
 # 🫶 Impact Analysis of GoodThought NGO Initiatives
-The primary goal of this project is to evaluate the financial distribution and social impact of humanitarian projects to provide data-driven insights for future strategic planning. By leveraging SQL, i extracted insights into how funding correlates with regional impact scores to guide future resource allocation.
+In this project, i analyzed 13 years of humanitarian funding data to reveal that top-performing projects hit near-perfect impact scores (9.99–10) with just 1–2 donations — a clear signal of high resource efficiency to guide future funding decisions
 
 ## Data description
 * **Assignments:** Details about each project, including its name, duration, budget, geographical region, and the impact score.
